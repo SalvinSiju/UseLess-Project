@@ -1,53 +1,55 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Flappy Bird With Smart Pipes 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Outliers
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Salvin Siju - Sahrdaya College of Engineering and Technology,Kodakara
+- Member 1: Leo Philip - Sahrdaya College of Engineering and Technology,Kodakara
 
 ### Project Description
-[2-3 lines about what your project does]
+A useless twist on Flappy Bird: the pipes dodge the bird, and the bird can auto-save itself with smooth transitions.  
+Enjoy wild vertical movement, smart obstacles, and questionable usefulness!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Birds keep crashing into pipes in games.  
+Why not make the pipes avoid the bird instead?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We coded pipes that move their gaps to dodge the bird, and gave the bird a smooth auto-save feature.  
+Now, it’s almost impossible to lose… unless you try!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- Pygame
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- N/A (purely software)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+```bash
+pip install pygame
+```
 
 # Run
-[commands]
+```bash
+python app.py
+```
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![alt text](<Screenshot 2025-08-09 051143.png>)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -56,18 +58,6 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -84,13 +74,10 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Salvin Siju: Pygame Functionalities
+- Leo Philip: Python Code
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
