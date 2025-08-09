@@ -50,29 +50,23 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![alt text](<Screenshot 2025-08-09 051143.png>)
-*Add caption explaining what this shows*
+level 6 finished
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="618" height="906" alt="image" src="https://github.com/user-attachments/assets/ad1f6067-ca46-4ad3-a9ec-571feadd9590" />
+level 24 finished
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="618" height="908" alt="image" src="https://github.com/user-attachments/assets/991b1e91-cfbf-4108-8dec-9cec46de3f1a" />
+level 58 finished
 
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="618" height="908" alt="image" src="https://github.com/user-attachments/assets/cc089d73-1129-46f5-8c92-bbf3c20c7e25" />
+Final Output
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+(https://github.com/SalvinSiju/UseLess-Project/blob/main/Recording%202025-08-09%20052826.mp4)
+Working
 
 
 ## Team Contributions
